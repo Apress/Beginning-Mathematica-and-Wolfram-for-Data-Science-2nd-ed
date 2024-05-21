@@ -1,0 +1,72 @@
+[
+  {
+    "Model": "Enzo Ferrari",
+    "Year": 2002,
+    "Cylinders": 12,
+    "Horsepower HP": 660,
+    "Weight Kg": 1255
+  },
+  {
+    "Model": "Koenigsegg CCX",
+    "Year": 2000,
+    "Cylinders": 8,
+    "Horsepower HP": 806,
+    "Weight Kg": 1180
+  },
+  {
+    "Model": "Pagani Zonda",
+    "Year": 2002,
+    "Cylinders": 12,
+    "Horsepower HP": 558,
+    "Weight Kg": 1250
+  },
+  {
+    "Model": "McLaren Senna",
+    "Year": 2019,
+    "Cylinders": 8,
+    "Horsepower HP": 800,
+    "Weight Kg": 1309
+  },
+  {
+    "Model": "McLaren 675 LT",
+    "Year": 2015,
+    "Cylinders": 8,
+    "Horsepower HP": 675,
+    "Weight Kg": 1230
+  },
+  {
+    "Model": "Bugatti Veyron",
+    "Year": 2006,
+    "Cylinders": 16,
+    "Horsepower HP": 1001,
+    "Weight Kg": 1881
+  },
+  {
+    "Model": "Audi R8 Spyder ",
+    "Year": 2010,
+    "Cylinders": 10,
+    "Horsepower HP": 525,
+    "Weight Kg": 1795
+  },
+  {
+    "Model": "Aston Martin Vantage",
+    "Year": 2009,
+    "Cylinders": 8,
+    "Horsepower HP": 926,
+    "Weight Kg": 1705
+  },
+  {
+    "Model": "Maserati Gran Turismo",
+    "Year": 2010,
+    "Cylinders": 8,
+    "Horsepower HP": 405,
+    "Weight Kg": 1955
+  },
+  {
+    "Model": "Lamborghini Aventador S",
+    "Year": 2017,
+    "Cylinders": 12,
+    "Horsepower HP": 740,
+    "Weight Kg": 1740
+  }
+]
